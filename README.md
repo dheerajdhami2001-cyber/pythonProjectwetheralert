@@ -27,13 +27,12 @@ This project requires credentials from two different services. Follow these step
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/dheerajdhami2001-cyber/your-repo-name.git
+    git clone https://github.com/dheerajdhami2001-cyber/pythonProjectwetheralert.git
     ```
-    *(Remember to replace `your-repo-name` with your actual repository name.)*
 
 2.  **Navigate into the project directory:**
     ```bash
-    cd your-repo-name
+    cd pythonProjectwetheralert
     ```
 
 3.  **Install the required dependencies:**
